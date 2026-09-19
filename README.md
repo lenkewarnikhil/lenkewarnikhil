@@ -1,84 +1,40 @@
-# 👋 Hi, I'm Nikhil Lenkewar
+<div align="center">
 
-🚀 Full-Stack Developer | 💡 Problem Solver | 📚 Lifelong Learner  
+# 👋 Hey, I'm Nikhil Lenkewar
 
-I enjoy building clean, scalable web applications and solving real-world problems using code.  
-Currently focused on strengthening **DSA**, **system thinking**, and **AI-assisted development**.
+### Software Engineer · Backend · AI · Data · Distributed Systems
 
-🌐 Portfolio: https://lnikhilsportfolio.netlify.app  
-🔗 LinkedIn: https://www.linkedin.com/in/lenkewar-nikhil  
-📂 GitHub: https://github.com/lenkewarnikhil  
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+scalable+backend+systems;Designing+data-driven+platforms;Exploring+AI+%2B+distributed+systems;Turning+ideas+into+production+systems" />
 
----
+<br/>
 
-## 🛠️ Tech Stack
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-111827?style=for-the-badge)](https://lnikhilsportfolio.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lenkewar-nikhil)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lenkewarnikhil)
 
-**Languages**
-- JavaScript (ES6+)
-- Python
-- Java
-
-**Frontend**
-- React
-- HTML5
-- CSS3
-- Tailwind CSS
-
-**Backend**
-- Node.js
-- Express.js
-- REST APIs
-
-**Databases**
-- MongoDB
-- MySQL
-
-**Tools & Platforms**
-- Git & GitHub
-- Postman
-- VS Code
-- Linux
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 About Me
 
-### 🔹 Leaderboard Application
-A full-stack leaderboard system with frontend and backend separation.  
-**Tech:** React, Node.js, Express, MongoDB  
-🔗 Frontend: https://github.com/lenkewarnikhil/leaderboard-frontend  
-🔗 Backend: https://github.com/lenkewarnikhil/leaderboard-backend  
+```python
+class Nikhil:
 
----
+    role = "Software Engineer"
 
-### 🔹 Discord Contest Bot
-A Discord bot that posts contest notifications and automates reminders.  
-**Tech:** Node.js, Discord API  
-🔗 Repo: https://github.com/lenkewarnikhil/discord-contest-bot  
+    focus = [
+        "Backend Engineering",
+        "AI-powered Systems",
+        "Data Pipelines",
+        "Distributed Systems"
+    ]
 
----
+    currently_exploring = [
+        "Agentic AI",
+        "LLM Applications",
+        "System Design",
+        "Workflow Orchestration"
+    ]
 
-### 🔹 AI Onboarder
-An AI-powered onboarding assistant concept for guiding new users.  
-**Tech:** JavaScript, APIs  
-🔗 Repo: https://github.com/lenkewarnikhil/AI-Onboarder  
-
----
-
-## 📈 GitHub Stats
-
-![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lenkewarnikhil&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lenkewarnikhil&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Let’s Connect
-
-- 💼 LinkedIn: https://www.linkedin.com/in/lenkewar-nikhil  
-- 🌐 Portfolio: https://lnikhilsportfolio.netlify.app
-- Email: l.nikhil.codes@gmail.com
-- 📧 Open to collaboration, learning, and interesting problems  
-
----
-
-⭐ *“Code is not just about solving problems — it’s about expressing clarity.”*
+    philosophy = "Build → Break → Understand → Build Better"
